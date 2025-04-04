@@ -1,0 +1,31 @@
+1. Get dataset
+		- download dataset[done]
+2. Load dataset in Julia
+		- import dataset[]
+
+3. Explore dataset
+		- Understanding data
+		- Checking for missing values,duplicates,inconsistencies
+		- Choosing variables for the model
+		
+4. Prepare dataset
+		- Fill missing values
+		- Converting variabl to continues values
+		- Standardise the data
+		- Split data into training and testing set
+
+5. Develop regression model
+		- Choose regression models
+		- Implement models
+		
+6. Train regression model
+		- Train the model
+7. Test regression model
+		- Test the model
+		
+8. Evaluate and fine tuning
+		- Get model confusion matrix
+		- Check accuracy score
+		- Select best model
+
+
